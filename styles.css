@@ -1,6 +1,6 @@
 body{
   	padding: 25px;
- 	background-color: #470C09;
+  	background-color: #470C09;
 }
 .title {
 	color: #E8E4D3;
@@ -12,8 +12,19 @@ p {
 td {
   	color: #F4D58D
 }
-.navi {
+.container {
+  	position: relative;
+  	padding: 1em;
+}
+nav {
+  	position: absolute;
+  	left: 0px;
+  	width: 200px;
   	background-color: #001427;
   	text-align: left;
   	color: #BF0603;
+}
+section {
+  	margin-left: 200px;
+  	padding: 1em;
 }
