@@ -29,5 +29,6 @@ section {
   	padding: 1em;
 }
 .bgIndex {
+	padding: 25px;
 	background-image: url("images/bg-purple-mist.jpeg");
 }
