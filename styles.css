@@ -1,5 +1,5 @@
 body{
-  	padding: 25px;
+  	padding: 1em;
 	background-color: #470C09;
 }
 .title {
@@ -20,15 +20,23 @@ nav {
   	position: absolute;
   	left: 0px;
   	width: 200px;
-  	background-color: #001427;
   	text-align: left;
   	color: #BF0603;
+	background-image: url("images/bg-space-3.png");
 }
 section {
   	margin-left: 200px;
   	padding: 1em;
 }
 .bgIndex {
-	padding: 25px;
 	background-image: url("images/bg-purple-mist.jpeg");
+}
+.bgHistory {
+	background-image: url("images/bg-marble.png");
+}
+.text {
+	color: #001427;
+}
+.bgGenre {
+	background-image: url("images/bg-spooky-pattern.png");
 }
