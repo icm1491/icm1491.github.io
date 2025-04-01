@@ -1,6 +1,5 @@
 body{
   	padding: 25px;
-  	background-image: url("images/bg-purple-mist.jpeg");
 }
 .title {
 	color: #E8E4D3;
@@ -27,4 +26,7 @@ nav {
 section {
   	margin-left: 200px;
   	padding: 1em;
+}
+.bgIndex {
+	background-image: url("images/bg-purple-mist.jpeg");
 }
