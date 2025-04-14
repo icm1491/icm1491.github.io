@@ -39,3 +39,6 @@ section {
 .bgGenre {
 	background-image: url("images/bg-spooky-pattern.png");
 }
+.tab {
+	margin-left: 1em
+}
