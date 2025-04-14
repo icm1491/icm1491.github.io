@@ -1,17 +1,11 @@
 body{
 	padding: 1em;
 	background-color: #470C09;
+	color: #F4D58D;
 	font-family: Verdana, sans-serif;
 }
 .title {
-	color: #E8E4D3;
 	text-align: center;
-}
-p {
-  	color: #F4D58D;
-}
-td {
-  	color: #F4D58D
 }
 .container {
   	position: relative;
@@ -40,5 +34,5 @@ section {
 	background-image: url("images/bg-spooky-pattern.png");
 }
 .tab {
-	margin-left: 1em
+	margin-left: 1em;
 }
