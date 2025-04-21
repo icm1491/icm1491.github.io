@@ -24,7 +24,7 @@ section {
   	padding: 8em;
 }
 .Index {
-	background-image: url("images/bg-purple-mist.jpeg");
+	background-image: url("images/bg-dark-red-pattern.jpg");
 }
 .History {
 	background-image: url("images/bg-marble.png");
@@ -37,13 +37,13 @@ section {
 	background-image: url("images/bg-purple-mist.jpeg");
 }
 .DeepRed {
-
+	background-image: url("images/bg-red-swirls.png");
 }
 .BlackSunday {
-
+	background-image: url("images/bg-black-and-white.png");
 }
 .Suspiria {
-
+	background-image: url("images/bg-red-pattern.jpg");
 }
 .tab {
 	margin-left: 5em;
