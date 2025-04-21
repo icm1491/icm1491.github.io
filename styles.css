@@ -23,15 +23,27 @@ section {
   	margin-left: 200px;
   	padding: 8em;
 }
-.bgIndex {
+.Index {
 	background-image: url("images/bg-purple-mist.jpeg");
 }
-.bgHistory {
+.History {
 	background-image: url("images/bg-marble.png");
 	color: #001427;
 }
-.bgGenre {
+.Genre {
 	background-image: url("images/bg-spooky-pattern.png");
+}
+.Films {
+	background-image: url("images/bg-purple-mist.jpeg");
+}
+.DeepRed {
+
+}
+.BlackSunday {
+
+}
+.Suspiria {
+
 }
 .tab {
 	margin-left: 5em;
